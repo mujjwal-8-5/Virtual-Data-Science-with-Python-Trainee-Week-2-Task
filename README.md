@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 2: Exploratory Data Analysis and Visualization
 
 ## Overview
@@ -47,3 +48,7 @@ This is a small observational dataset. Correlation does not imply causation, and
 - Pandas: https://pandas.pydata.org/docs/
 - Matplotlib: https://matplotlib.org/stable/
 - Seaborn: https://seaborn.pydata.org/
+=======
+# Virtual-Data-Science-with-Python-Trainee-Week-2-Task
+This is my week 2 task of Virtual Data Science with Python Trainee of yuva intern in which I am going to learn about Week 2 Task: Exploratory Data Analysis and Visualization
+>>>>>>> 9b083c2ee6668b33cfc70dd31330278159a38d06
